@@ -119,9 +119,8 @@ To design and control a robotic arm using an **HC-05 Bluetooth module** connecte
 ## Results
 
 - Successfully designed and implemented a robotic arm with 4 DoF.
-- Achieved precise control through Bluetooth and Android application.
 - Demonstrated feasibility for industrial applications like material handling and light assembly tasks.
-
+                            ![arm](https://github.com/user-attachments/assets/a31921de-9688-48c5-bbbd-e4181174609b)
 ---
 
 ## References
