@@ -4,8 +4,8 @@
 This project involves the design and control of a robotic arm capable of executing tasks such as material handling, light assembly, and controlled movement via an Android application. The robotic arm operates with four degrees of freedom (DoF) and uses servo motors for precise movement.
 
 ---
-[![BreadcrumbsPick_and_Place_Robotic_Arm
-](https://img.youtube.com/vi/HjswL8kaAqY/edit)](https://www.youtube.com/watch?v=HjswL8kaAqY/edit)
+[![Pick_and_Place_Robotic_Arm](https://img.youtube.com/vi/HjswL8kaAqY/0.jpg)](https://www.youtube.com/watch?v=HjswL8kaAqY)
+
 ---
 ---
 
